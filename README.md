@@ -1,4 +1,4 @@
-# PHP Prepared statements
+# PHP PDO Prepared statements
 ## Academic reference
 ### Syntax and practical examples
 
@@ -8,6 +8,4 @@
   $DBUSER="";
   $DBPASS="";
   $DBNAME="";
-
-  $conn = mysqli_connect($DBHOST, $DBUSER, $DBPASS, $DBNAME);
 ```
